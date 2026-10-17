@@ -1,0 +1,27 @@
+{
+  "noise_ceiling":{
+    "n_replicate_pairs":177,
+    "n_gross_discordant_excluded":3,
+    "median_replicate_range":0.0115016147,
+    "all_replicates":{
+      "n_pairs":174,
+      "pooled_sd":0.3319108379,
+      "max_R2":0.9525244321
+    },
+    "cross_source":{
+      "n_pairs":76,
+      "pooled_sd":0.2726769642,
+      "max_R2":0.9679576617
+    }
+  },
+  "affinity":{
+    "n_with_affinity":181,
+    "affinity_types":{
+      "Ki":156,
+      "Kd":25
+    },
+    "n_Kd_with_kon":17,
+    "frac_Kd_derived_from_kinetics":0.8823529412,
+    "pearson_affinity_vs_logkoff":-0.2378887771
+  }
+}
